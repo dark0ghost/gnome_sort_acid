@@ -1,7 +1,7 @@
 # Gnome Sort on C++
 
 # About 
-[task]()
+[task](https://github.com/dark0ghost/gnome_sort_acid/blob/main/acid.docx)
 
 # How Work 
 ```bash
