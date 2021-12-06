@@ -5,7 +5,7 @@
 
 # How Work 
 ```bash
-cmake ...
+cmake ..
 ./main file_name
 ```
 
